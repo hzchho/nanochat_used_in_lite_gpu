@@ -1,0 +1,2 @@
+# nanochat_used_in_lite_gpu
+在低配置的显卡资源下配置nanochat
